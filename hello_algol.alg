@@ -1,0 +1,1 @@
+BEGIN DISPLAY("Hello, world!") END.
